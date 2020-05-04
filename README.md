@@ -48,7 +48,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 #### Object-Oriented Programming
 
 * [Functional is cool, but do you know OO](https://www.youtube.com/watch?v=oiFYPAel-KY) by **Sandro Mancuso** [54:17] &#10003;
-* [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** [27:29]
+* [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** [27:29] &#10003;
 
 #### Functional Programming
 
