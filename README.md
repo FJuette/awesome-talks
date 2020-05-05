@@ -6,7 +6,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 (In no particular order)
 
 ### Categories
-  - [Software Development](https://github.com/JanVanRyswyck/awesome-talks#software-development)
+  - [Software Development](https://github.com/JanVanRyswyck/awesome-talks#software-development) &#10003; -> Hard to follow
   - [Object-Oriented Programming](https://github.com/JanVanRyswyck/awesome-talks#object-oriented-programming)
   - [Functional Programming](https://github.com/JanVanRyswyck/awesome-talks#functional-programming)
   - [Software Design](https://github.com/JanVanRyswyck/awesome-talks#software-design)
