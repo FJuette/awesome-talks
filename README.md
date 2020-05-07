@@ -6,7 +6,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 (In no particular order)
 
 ### Categories
-  - [Software Development](https://github.com/JanVanRyswyck/awesome-talks#software-development) &#10003; -> Hard to follow
+  - [Software Development](https://github.com/JanVanRyswyck/awesome-talks#software-development)
   - [Object-Oriented Programming](https://github.com/JanVanRyswyck/awesome-talks#object-oriented-programming)
   - [Functional Programming](https://github.com/JanVanRyswyck/awesome-talks#functional-programming)
   - [Software Design](https://github.com/JanVanRyswyck/awesome-talks#software-design)
@@ -20,7 +20,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
   - [Cryptocurrencies](https://github.com/JanVanRyswyck/awesome-talks#cryptocurrencies)
 
 #### Software Development
-* [The Computer Revolution hasn't happend yet](https://www.youtube.com/watch?v=oKg1hTOQXoY) by **Alan Kay** [1:04:34]
+* [The Computer Revolution hasn't happend yet](https://www.youtube.com/watch?v=oKg1hTOQXoY) by **Alan Kay** [1:04:34] &#10003; -> Hard to follow
 * [The Future of Programming](https://vimeo.com/71278954) by **Bret Victor** [32:55]
 * [Inventing on Principle](https://vimeo.com/36579366) by **Bret Victor** [54:20]
 * [Media for Thinking the Unthinkable](http://worrydream.com/MediaForThinkingTheUnthinkable/) by **Bret Victor** [39:32]
