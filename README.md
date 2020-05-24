@@ -171,7 +171,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Ideology](https://www.destroyallsoftware.com/talks/ideology) by **Gary Bernhardt** [21:22]
 
 #### Cryptocurrencies
-* [Bitcoin: Where the Laws of Mathematics Prevail](https://www.youtube.com/watch?v=HaJ1hvon0E0) by **Andreas Antonopoulos** [23:47]
+* [Bitcoin: Where the Laws of Mathematics Prevail](https://www.youtube.com/watch?v=HaJ1hvon0E0) by **Andreas Antonopoulos** [23:47] &#10003;
 * [Delivering Liberty, at Scale](https://www.youtube.com/watch?v=AecPrwqjbGw) by **Andreas Antonopoulos** [30:15]
 
 ## License
