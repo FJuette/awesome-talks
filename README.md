@@ -95,6 +95,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Hopelessness and Confidence in Distributed Systems Design](https://www.youtube.com/watch?v=TlU1opuCXB0) by **Camille Fournier** [40:35]
 * [Kill "Microservices" before its too late](https://www.youtube.com/watch?v=-UKEPd2ipEk) by **Chad Fowler** [39:41]
 * [50,000 Orange Stickies Later](https://www.youtube.com/watch?v=1i6QYvYhlYQ) by **Alberto Brandolini** [54:28]
+* [100,000 Orange Stickies Later](https://www.youtube.com/watch?v=fGm62ra_mQ8) by **Alberto Brandolini** [42:27] 
 * [The Art of Discovering Bounded Contexts](https://www.youtube.com/watch?v=ez9GWESKG4I) by **Nick Tune** [41:53]
 
 #### Web Development
