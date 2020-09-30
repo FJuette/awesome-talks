@@ -178,6 +178,11 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Bitcoin: Where the Laws of Mathematics Prevail](https://www.youtube.com/watch?v=HaJ1hvon0E0) by **Andreas Antonopoulos** [23:47] &#10003;
 * [Delivering Liberty, at Scale](https://www.youtube.com/watch?v=AecPrwqjbGw) by **Andreas Antonopoulos** [30:15]
 
+#### Unknown
+* [The Lazy Programmer's Guide to Secure Computing](https://www.youtube.com/watch?v=eL5o4PFuxTY) by **Marc Stiegler** [01:13:29]
+* [The lazy programmer's guide to writing thousands of tests](https://www.youtube.com/watch?v=IYzDFHx6QPY) by **Scott Wlaschin** [52:50]
+
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
