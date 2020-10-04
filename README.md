@@ -100,7 +100,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 
 #### Web Development
 
-* [Crockford on JavaScript](https://www.youtube.com/playlist?list=PL7664379246A246CB) by **Douglas Crockford** [10:14:37] -> 4/8 &#10003;
+* [Crockford on JavaScript](https://www.youtube.com/playlist?list=PL7664379246A246CB) by **Douglas Crockford** [10:14:37] -> 6/8 &#10003;
 * [Go To There and Back Again](http://vimeo.com/78893726) by **Douglas Crockford** [49:06]
 * [The Better Parts](https://www.youtube.com/watch?v=bo36MrBfTk4) by **Douglas Crockford** [01:00:52]
 * [Introduction to Node.js](http://www.yuiblog.com/blog/2010/05/20/video-dahl/) by **Ryan Dahl** [58:19]
