@@ -44,7 +44,6 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [5 WTFs in 6 LOCs](https://vimeo.com/181409251) by **Dorothy Wingrove** [05:11] &#10003;
 * [Programming is Writing is Programming](https://www.youtube.com/watch?v=uO3a4HIBDU4) by **Felienne Hermans** [55:46] &#10003;
 * [We're Doing It All Wrong](https://www.youtube.com/watch?v=TS1lpKBMkgg) by **Paul Phillips** [50:42] &#10003;
-* [The Art of Code](https://www.youtube.com/watch?v=6avJHaC3C2U) by **Dylan Beattie** [01:00:48] &#10003; -> Very entertaining talk
 
 #### Object-Oriented Programming
 
@@ -182,6 +181,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 #### Unknown
 * [The Lazy Programmer's Guide to Secure Computing](https://www.youtube.com/watch?v=eL5o4PFuxTY) by **Marc Stiegler** [01:13:29]
 * [The lazy programmer's guide to writing thousands of tests](https://www.youtube.com/watch?v=IYzDFHx6QPY) by **Scott Wlaschin** [52:50]
+* [The Art of Code](https://www.youtube.com/watch?v=6avJHaC3C2U) by **Dylan Beattie** [01:00:48] &#10003; -> Very entertaining talk
 
 
 ## License
