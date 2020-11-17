@@ -44,6 +44,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [5 WTFs in 6 LOCs](https://vimeo.com/181409251) by **Dorothy Wingrove** [05:11] &#10003;
 * [Programming is Writing is Programming](https://www.youtube.com/watch?v=uO3a4HIBDU4) by **Felienne Hermans** [55:46] &#10003;
 * [We're Doing It All Wrong](https://www.youtube.com/watch?v=TS1lpKBMkgg) by **Paul Phillips** [50:42] &#10003;
+* [The Art of Code](https://www.youtube.com/watch?v=6avJHaC3C2U) by **Dylan Beattie** [01:00:48] &#10003; -> Very entertaining talk
 
 #### Object-Oriented Programming
 
@@ -152,7 +153,6 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [The Future of Programming](https://www.youtube.com/watch?v=ecIWPzGEbFc) by **Robert C. Martin** [01:18:20]
 * [1968](https://www.youtube.com/watch?v=KjgvffBlWAg) by **Kevlin Henney** [56:44]
 * [DOOM’s Development: A Year of Madness](https://www.youtube.com/watch?v=eBU34NZhW7I) by **John Romero** [44:12]
-* [The Art of Code](https://www.youtube.com/watch?v=6avJHaC3C2U) by **Dylan Beattie** [01:00:48] &#10003; -> Very entertaining talk
 
 #### Databases
 * [Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU) by **Rich Hickey** [1:06:23] &#10003;
