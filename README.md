@@ -75,7 +75,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 #### Software Design
 
 * [Architecture the Lost Years](https://www.youtube.com/watch?v=WpkDN78P884) by **Robert C. Martin** [1:06:38] &#10003;
-* [DDD: putting the model to work](http://www.infoq.com/presentations/model-to-work-evans) by **Eric Evans** [58:48]
+* [DDD: putting the model to work](http://www.infoq.com/presentations/model-to-work-evans) by **Eric Evans** [58:48] &#10003;
 * [Unleash Your Domain](https://vimeo.com/19428577) by **Greg Young** [45:20]
 * [The Art of Destroying Software](https://vimeo.com/108441214) by **Greg Young** [42:30]
 * [8 Lines of Code](https://www.infoq.com/presentations/8-lines-code-refactoring) by **Greg Young** [54:43]
