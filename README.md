@@ -79,7 +79,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Unleash Your Domain](https://vimeo.com/19428577) by **Greg Young** [45:20] &#10003; -> Great talk about CQRS and Events
 * [The Art of Destroying Software](https://vimeo.com/108441214) by **Greg Young** [42:30] &#10003; -> Great
 * [8 Lines of Code](https://www.infoq.com/presentations/8-lines-code-refactoring) by **Greg Young** [54:43] &#10003;
-* [Strategic Design](http://www.infoq.com/presentations/strategic-design-evans) by **Eric Evans** [54:40]
+* [Strategic Design](http://www.infoq.com/presentations/strategic-design-evans) by **Eric Evans** [54:40] &#10003;
 * [Reliability, Availability, and Scalability](https://vimeo.com/6222577) by **Udi Dahan** [1:11:09]
 * [Implementing Micro Service Architectures](https://vimeo.com/79866979) by **Fred George** [54:40]
 * [Immutability Changes Everything](http://vimeo.com/52831373) by **Pat Helland** [45:19]
