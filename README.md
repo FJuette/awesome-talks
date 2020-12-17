@@ -99,6 +99,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [The Art of Discovering Bounded Contexts](https://www.youtube.com/watch?v=ez9GWESKG4I) by **Nick Tune** [41:53]
 * [A Decade of DDD, CQRS, Event Sourcing](https://www.youtube.com/watch?v=LDW0QWie21s) by **Greg Young** [48:01] &#10003;
 * [Functional Data](https://www.youtube.com/watch?v=S2KLFlM_Z4I) by **Greg Young** [49:52] &#10003;
+* [Distributed Sagas: A Protocol for Coordinating Microservices](https://www.youtube.com/watch?v=0UTOLRTwOX0) by **Caitie McCaffrey** [44:33] &#10003;
 
 #### Web Development
 
