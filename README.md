@@ -92,7 +92,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Therapeutic Refactoring](https://www.youtube.com/watch?v=J4dlF0kcThQ) by **Katrina Owen** [26:04] &#10003;
 * [Evidence-Oriented Programming](https://www.youtube.com/watch?v=uEFrE6cgVNY) by **Andreas Stefik** [41:42] &#10003;
 * [The Programming Language Wars](https://www.youtube.com/watch?v=mDZ-QSLQIB8) by **Andreas Stefik** [50:28] &#10003;
-* [Hopelessness and Confidence in Distributed Systems Design](https://www.youtube.com/watch?v=TlU1opuCXB0) by **Camille Fournier** [40:35]
+* [Hopelessness and Confidence in Distributed Systems Design](https://www.youtube.com/watch?v=TlU1opuCXB0) by **Camille Fournier** [40:35] &#10003;
 * [Kill "Microservices" before its too late](https://www.youtube.com/watch?v=-UKEPd2ipEk) by **Chad Fowler** [39:41]
 * [50,000 Orange Stickies Later](https://www.youtube.com/watch?v=1i6QYvYhlYQ) by **Alberto Brandolini** [54:28] &#10003;
 * [100,000 Orange Stickies Later](https://www.youtube.com/watch?v=fGm62ra_mQ8) by **Alberto Brandolini** [42:27] 
