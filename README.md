@@ -91,7 +91,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Stewardship: The Sobering Parts](https://www.youtube.com/watch?v=2y5Pv4yN0b0) by **Brian Goetz** [1:03:30] &#10003;
 * [Therapeutic Refactoring](https://www.youtube.com/watch?v=J4dlF0kcThQ) by **Katrina Owen** [26:04] &#10003;
 * [Evidence-Oriented Programming](https://www.youtube.com/watch?v=uEFrE6cgVNY) by **Andreas Stefik** [41:42] &#10003;
-* [The Programming Language Wars](https://www.youtube.com/watch?v=mDZ-QSLQIB8) by **Andreas Stefik** [50:28]
+* [The Programming Language Wars](https://www.youtube.com/watch?v=mDZ-QSLQIB8) by **Andreas Stefik** [50:28] &#10003;
 * [Hopelessness and Confidence in Distributed Systems Design](https://www.youtube.com/watch?v=TlU1opuCXB0) by **Camille Fournier** [40:35]
 * [Kill "Microservices" before its too late](https://www.youtube.com/watch?v=-UKEPd2ipEk) by **Chad Fowler** [39:41]
 * [50,000 Orange Stickies Later](https://www.youtube.com/watch?v=1i6QYvYhlYQ) by **Alberto Brandolini** [54:28] &#10003;
