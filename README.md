@@ -100,6 +100,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [A Decade of DDD, CQRS, Event Sourcing](https://www.youtube.com/watch?v=LDW0QWie21s) by **Greg Young** [48:01] &#10003;
 * [Functional Data](https://www.youtube.com/watch?v=S2KLFlM_Z4I) by **Greg Young** [49:52] &#10003;
 * [Distributed Sagas: A Protocol for Coordinating Microservices](https://www.youtube.com/watch?v=0UTOLRTwOX0) by **Caitie McCaffrey** [44:33] &#10003;
+* [Crunching 'real-life stories' with DDD & Event Storming - KanDDDinsky 2018](https://www.youtube.com/watch?v=WvkBKvMnyuc) by **Kenny Baas-Schwegler** [59:56]
 
 #### Web Development
 
