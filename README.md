@@ -86,7 +86,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Crafting Wicked Domain Models](https://vimeo.com/43598193) by **Jimmy Bogard** [1:03:03] &#10003; -> Great Talk, shows practical how to move to ddd-models
 * [The Actor Model](http://channel9.msdn.com/Shows/Going+Deep/Hewitt-Meijer-and-Szyperski-The-Actor-Model-everything-you-wanted-to-know-but-were-afraid-to-ask) by **Hewitt, Meijer and Szyperski** [42:34] &#10003; -> Great Introduction into Actors
 * [How To Design A Good API and Why it Matters](http://www.youtube.com/watch?v=aAb7hSCtvGw) by **Josh Bloch** [1:00:18] &#10003; -> Good Tips for general API design
-* [The Joys and Pains of a Long Lived Codebase](http://www.infoq.com/presentations/Lessons-Learned-Jeremy-Miller) by **Jeremy D Miller** [1:02:30]
+* [The Joys and Pains of a Long Lived Codebase](https://www.youtube.com/watch?v=6O9fhFBurGg) by **Jeremy D Miller** [1:01:18]
 * [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) by **Martin Fowler** [26.25] &#10003;
 * [Stewardship: The Sobering Parts](https://www.youtube.com/watch?v=2y5Pv4yN0b0) by **Brian Goetz** [1:03:30] &#10003;
 * [Therapeutic Refactoring](https://www.youtube.com/watch?v=J4dlF0kcThQ) by **Katrina Owen** [26:04] &#10003;
