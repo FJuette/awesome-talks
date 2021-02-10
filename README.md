@@ -111,7 +111,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [WAT](https://www.destroyallsoftware.com/talks/wat) by **Gary Bernhardt** [4:17] &#10003;
 * [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) by **Gary Bernhardt** [29:22]  &#10003; -> Entertaining
 * [Hey Underscore, You're Doing It Wrong!](http://www.youtube.com/watch?v=m3svKOdZijA) by **Brian Lonsdorf** [36:30] &#10003;
-* [Community.js](https://www.youtube.com/watch?v=23Yxji-tEfc) by **Chris Williams** [21:39]
+* [Community.js](https://www.youtube.com/watch?v=23Yxji-tEfc) by **Chris Williams** [21:39] &#10003; -> Bad audio
 * [An End to Negativity](https://www.youtube.com/watch?v=17rkSdkc5TI) by **Chris Williams** [27:25]
 * [Is Node.js Better](https://www.youtube.com/watch?v=C5fa1LZYodQ) by **Brian Ford** [41:42]
 * [Life is Terrible: Let's Talk About the Web](http://vimeo.com/111122950) by **James Mickens** [32:07]
